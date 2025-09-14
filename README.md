@@ -2,7 +2,7 @@
 <p align="center">
 1️⃣9️⃣
 </p>
---
+
 ## 🌎 Sobre mim
 - 👤 Apaixonado por tecnologia, programação, ciências, animais e psicologia.
 - 📚 Cursando 2º semestre em **Sistemas de Informação** pela UNISANTA; Estudando **HTML e CSS** e **Python**;
