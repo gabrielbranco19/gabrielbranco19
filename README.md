@@ -1,7 +1,7 @@
 # 🐍 gabrielbranco19
-# 19
+# 1️⃣9️⃣
 
-## Sobre mim
+## 🌎 Sobre mim
 - 👤 Apaixonado por tecnologia e quero fazer disso minha vida. Dedicado 100% aos estudos e mudar de vida.
 - 📚 Cursando 2º semestre em **Bacharelado de Sistemas de Informação** pela UNISANTA; Estudando **HTML e CSS** e **Python**;
 - 🎯 Meu sonho é ser especialista em Python.
