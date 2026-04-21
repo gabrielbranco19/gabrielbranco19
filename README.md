@@ -8,7 +8,7 @@ Apaixonado por programação e pela tecnologia, curioso e em constante aprendiza
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
+- 🎓 Cursando o 1º semestre em **Análise e Desenvolvimento de Sistemas (ADS)** pela UNISANTA
 - ☕ Focado em me tornar um **Desenvolvedor Back-end Java**
 - 🔨 Gosto muito de refletir, logo, gosto de pensar sobre o porquê de tudo. Daí vem o gosto de solucionar problemas e entender a lógica por trás de tudo.
 
